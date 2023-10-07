@@ -25,7 +25,7 @@ We welcome contributions from the open-source community. Whether you're passiona
 If you encounter any bugs, have ideas for improvements, or want to discuss features, please open an issue on this repository. We value your feedback!
 
 # License:
-This project is licensed under the MIT License. See the LICENSE file for more details.
+Creative Commons License
 
 # Credits:
 
