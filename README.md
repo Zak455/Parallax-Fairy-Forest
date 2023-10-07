@@ -3,7 +3,7 @@ Welcome to the mesmerizing world of Parallax Fairy Forest, a web development pro
 
 # Key Features:
 
-- Seamless Parallax Scrolling: Immerse your audience in a captivating journey through shifting landscapes and layers, all smoothly controlled with GSAP's ScrollTrigger and ScrollSmoother plugins.
+- Seamless Parallax Scrolling: Immerse your audience in a captivating journey through shifting landscapes and layers, all smoothly controlled with GSAP's [ScrollTrigger](https://greensock.com/scrolltrigger/) and [ScrollSmoother](https://greensock.com/scrollsmoother/) plugins.
 
 - Responsive Design: Ensure a delightful experience on various devices with a responsive layout and flexible typography.
 
