@@ -30,8 +30,11 @@ Creative Commons License
 # Credits:
 
 [GSAP - GreenSock Animation Platform](https://greensock.com/gsap/)
+
 [ScrollTrigger Plugin](https://greensock.com/scrolltrigger/)
+
 [ScrollSmoother Plugin](https://greensock.com/scrollsmoother/)
+
 Background Images by FDK Graphics
 
 Explore the magic of Parallax Fairy Forest, and let your imagination soar as you venture into this captivating woodland. Visit the live site here to experience it firsthand.
