@@ -37,4 +37,4 @@ Creative Commons License
 
 Background Images by FDK Graphics
 
-Explore the magic of Parallax Fairy Forest, and let your imagination soar as you venture into this captivating woodland. Visit the live site here to experience it firsthand.
+Explore the magic of Parallax Fairy Forest, and let your imagination soar as you venture into this captivating woodland. Visit the live site [here](https://zak455.github.io/Parallax-Fairy-Forest/) to experience it firsthand.
